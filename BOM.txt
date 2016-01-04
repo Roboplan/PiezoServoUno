@@ -1,0 +1,17 @@
+
+PiezoServo BOM:
+
+Power source:
+    1.9V battery:
+        -link: https://www.sparkfun.com/products/10218
+MicroController:
+    1.Arduino Uno - R3:
+        -link: https://www.sparkfun.com/products/11021
+Components:
+    1.Servo:
+        -link: https://www.sparkfun.com/products/10333
+    2.Piezo element:
+        -link: https://www.sparkfun.com/products/10293
+        -additional:
+            -1M ohm resistor:
+                -link: https://www.sparkfun.com/products/11853
