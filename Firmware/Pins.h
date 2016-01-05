@@ -1,14 +1,5 @@
 /*
 PIN OUT header file
-
-Produced automatically by Circuito Ltd
-
-MicroController - Arduino pro mini 5V/16MHz
-Peripherals:
-	inputs:
-		Piezo
-	outputs:
-		Servo
 */
 
 #ifndef PINS_H
